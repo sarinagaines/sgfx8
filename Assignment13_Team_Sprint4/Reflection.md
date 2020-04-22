@@ -7,6 +7,10 @@ I like how they provided information on their webpage. I looked at JOSSO as well
 and access management solution focused on visual modeling and a generative approach. Keycloack allows
 you to add authentication and secure services to applications without storing users or authenticating them. 
 
+https://sailsjs.com/ 
+https://www.keycloak.org/
+http://www.josso.org/
+
 **2) Why you chose the one you did?**
 However, I am choosing Sailsjs, which was provided by Professor Goggins.
 I am choosing this one because I like how they provided information the best
