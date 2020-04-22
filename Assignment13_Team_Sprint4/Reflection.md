@@ -20,9 +20,9 @@ and find the steps a little simpler to follow.
 I followed all instructions provided by Sailsjs from https://sailsjs.com/get-started.
 These instructions included installing Sails, making sure I had Noje.js installed and creating my app.
 I was successful in completing all the steps and got my SSO page set up.
-I did not make any design changes to the page, but one is able to create an account then sign into that account. 
+I did not make many design changes to the page, I added in "Hello World" as well as my name and what class the page was for. 
+More changes can definelty be made to make the page appear nicer. 
 
 **4) What obstacles you encountered in the process?**
 I didn’t encounter to many obstacles, the instructions provided by Sailsjs were very clear.
-My only obstacle was figuring out how to upload all the files to my GitHub repository and also 
-figuring out how to edit the webpage so that it may look how I’d like it to. 
+My only obstacle was figuring out how to upload all the folder to my GitHub repository because you I didn't realize you can't upload a folder through the GitHub website. I had to do so by cloning my repository and then pushing my changes. Also, I had trouble figuring out how to edit the webpage so that it may look how I’d like it to. I figured out how to do so by editing the Welcome page's HTML code in GitHub.
