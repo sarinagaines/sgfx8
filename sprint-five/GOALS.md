@@ -1,1 +1,3 @@
-The purpose of my application is to simply allow an individual to login. I will be displaying data. The target audience is anyone interested in using the application. The intention of the application is to.
+**In this document, describe the purpose of your application, its core audience, and whether you will be collecting or displaying data; or neither. But make the audience and intention of your application clear.**
+
+The purpose of my application is to allow an individual to login using google authentication to view data. I will be displaying some sort of data though I am still waiting for confirmation from the Instructor of what kind of data should be displayed. The target audience is anyone interested in using the application and viewing the data I plan to show. The intention of the application is to provide information.
