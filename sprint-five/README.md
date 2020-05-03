@@ -6,7 +6,7 @@ If you run into the issue, <br />
 My Client ID is: 937756459082-lfmtp4cihoeqnp17cmg9d0uvmamcud1t.apps.googleusercontent.com <br /> 
 My Client Secret is: LRFHxKE-y8wCvsKYdmsU7i_q <br /> 
 <br /> 
-**To run it you will: ** <br /> 
+**To run it you will:** <br /> 
 1)Clone my repository  <br /> 
 2)Navigate to the 'my-google' folder within my repository <br /> 
 3)Enter 'python app.py' <br /> 
