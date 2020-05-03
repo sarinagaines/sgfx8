@@ -8,4 +8,5 @@ I like the Flask Google login implementation the most, it is something I see imp
 Sites I visited:<br />
 https://realpython.com/flask-google-login/#creating-your-own-web-application <br /> https://console.developers.google.com/apis/credentials https://github.com/sgoggins/dex/blob/master/Documentation/using-dex.md <br />
 https://github.com/sgoggins/dex/tree/master/Documentation <br />
-https://github.com/google/google-api-objectivec-client/issues/211
+https://github.com/google/google-api-objectivec-client/issues/211 <br />
+https://developers.google.com/identity/protocols/oauth2
