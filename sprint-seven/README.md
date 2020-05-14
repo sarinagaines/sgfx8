@@ -1,6 +1,6 @@
 **Submission of the final iteration of my project.**<br />
 
-In this iteration, I updated the links to book reviews, added in an about my introduction and adjusted the apperances of the page. I attempted to create a local JSON file to read in but was not successfull. I attempted adding images in but was not successful with that either. I visted many sites to try and figure out how both these things could be done but despite my work, I was not able to complete what I wanted too. I am satisfied with what I currently have, the app does what I intended it to. However, with more time and help I belive I can make it even better. <br /><br />
+In this iteration, I updated the links to book reviews and added more, added in an about me introduction and adjusted the apperances of the page. I attempted to create a local JSON file to read in but was not successfull. I attempted adding images in but was not successful with that either. I visted many sites to try and figure out how both these things could be done but despite my work, I was not able to complete what I wanted to. I am satisfied with what I currently have, the app does what I intended it to. However, with more time and help I belive I could make it better and show the data a different way. <br /><br />
 
 **I've had an issue where the Client ID and Client Secret is no longer set and I have to reset them to get the app to work once more.**<br />
 
