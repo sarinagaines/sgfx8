@@ -23,7 +23,7 @@ I attempted to display data using an API but I have no experience using APIs and
 I worked with the geeksforgeeks weather api example for a while and ran into numerous issues. I continued to debug and referenced forums for help but after a while, I still could not get the application to run. I decided to go with another idea, a book blog, and it is one I prefer and have experience in. My idea currently isn't using a hardcoded local JSON file to pull data from but I will work on implementing that.
 
 <br /><br />
-**From my final iteration:**
+**From my final iteration:**<br />
 https://www.taniarascia.com/how-to-use-json-data-with-php-or-javascript/<br />
 https://www.quora.com/How-do-I-put-JSON-data-in-my-HTML-page<br />
 https://www.w3schools.com/js/js_json_parse.asp<br />
@@ -37,4 +37,4 @@ https://stackoverflow.com/questions/11596777/flask-not-serving-pictures<br />
 https://mikeboers.github.io/Flask-Images/<br />
 https://code-maven.com/flask-serve-static-files<br /><br />
 
-I visted all the sites listed above and more to attempt and load a local JSON file and images but was not successful. 
+I visted all the sites listed above and more to attempt and load a local JSON file and images but was not successful. I have had very little experience with loading JSON files, especially in this context. 
